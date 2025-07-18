@@ -1,29 +1,27 @@
 
  .blue {
-    color: skyblue;
- }
+   color: skyblue;
+    }
 
  .pink {
-  color:rgb(255,192,263);
-}
+  color:rgb(255,192,203);
+    }
 
  h1 {
-    font: size 40px;
+    font-size: 2rem;
     letter-spacing: 1.2em;
-    text-shadow: 2px;
-    border-bottom: 3px rgb(115,115,114);
-
-   .josefin-sans-<uniquifier> {
-   font-family: "Josefin Sans", sans-serif;
-   font-optical-sizing: auto;
-   font-weight: 400;
-   font-style: normal;
- }
- }
+    text-shadow: 3px 3px 2px gray;
+    border-bottom: solid 3px rgb(115,115,114);
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    }
+ 
   
- p {
+ html {
     font-size: 20px;
- }
+    }
 
  body {
     text-align: center;
@@ -32,6 +30,4 @@
  
 #basic {
       font-weight: bold;
-
-
-}
+    }
