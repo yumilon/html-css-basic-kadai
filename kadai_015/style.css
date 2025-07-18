@@ -28,6 +28,6 @@
     font-family: "Arial", "Meiryo", sans-serif;
     }
  
-#basic {
+#basic>p {
       font-weight: bold;
     }
